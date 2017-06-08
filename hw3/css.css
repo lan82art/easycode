@@ -1,0 +1,27 @@
+.wrap{
+    width: 100%;
+}
+.main_div{
+    margin:auto;
+    width: 350px;
+    background-color: lightgray;
+    padding: 20px;
+}
+.select_div{
+    float:left;
+    margin: 20px;
+    background-color: #00CC99;
+    padding: 10px;
+}
+
+.clear_div{
+    clear: both;
+}
+.button_div{
+    margin-top: 30px;
+}
+.cards_div{
+    margin:auto;
+    width: 400px;
+    padding: 20px;
+}
